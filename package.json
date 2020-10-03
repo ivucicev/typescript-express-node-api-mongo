@@ -20,6 +20,8 @@
     "express": "^4.16.4",
     "express-session": "^1.16.1",
     "mongoose": "^5.4.16",
+    "node-html-parser": "^1.1.16",
+    "request": "^2.88.0",
     "ts-node-dev": "^1.0.0-pre.32",
     "tslint": "^5.13.1",
     "uuid": "^3.3.2"
